@@ -1,0 +1,108 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_14_pro_max___1
+	 *	@date 		Wednesday 07th of December 2022 04:47:08 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_14_pro_max___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__iphone_14_pro_max___1"
+				android:background="@drawable/_bg__iphone_14_pro_max___1_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+
+			<RelativeLayout android:id="@+id/icons"
+				android:layout_marginTop="36dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<ImageView android:id="@+id/rectangle_1"
+					android:src="@drawable/rectangle_1"
+					android:contentDescription="rectangle_1"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="329dp"
+					android:layout_width="430dp"
+					android:layout_height="567dp" />
+
+				<ImageView android:id="@+id/_profile"
+					android:src="@drawable/_profile"
+					android:contentDescription="_profile"
+					 android:layout_marginStart="363dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="52dp"
+					android:layout_height="50dp" />
+
+				<ImageView android:id="@+id/_network"
+					android:src="@drawable/_network"
+					android:contentDescription="_network"
+					 android:layout_marginStart="12dp"
+					android:layout_marginTop="834dp"
+					android:layout_width="51dp"
+					android:layout_height="51dp" />
+
+				<ImageView android:id="@+id/_message"
+					android:src="@drawable/_message"
+					android:contentDescription="_message"
+					 android:layout_marginStart="12dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="50dp"
+					android:layout_height="50dp" />
+
+				<ImageView android:id="@+id/_notification"
+					android:src="@drawable/_notification"
+					android:contentDescription="_notification"
+					 android:layout_marginStart="363dp"
+					android:layout_marginTop="835dp"
+					android:layout_width="52dp"
+					android:layout_height="50.27dp" />
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/user_name"
+				android:fontFamily="Inter"
+				android:textStyle="bold"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="26sp"
+				android:textColor="@color/_bg__iphone_14_pro_max___1_color"
+				android:layout_marginLeft="101dp"
+				android:layout_marginTop="574dp"
+				android:layout_width="239dp"
+				android:layout_height="92dp"
+				android:text="@string/user_name_string"
+				 />
+
+			<ImageView android:id="@+id/_image"
+				android:src="@drawable/_image"
+				android:contentDescription="_image"
+				 android:layout_marginStart="162dp"
+				android:layout_marginTop="432dp"
+				android:layout_width="105dp"
+				android:layout_height="105dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
